@@ -1,6 +1,6 @@
 ## DespertarTech 🤖
 
-Esse arquivo foi a primeira lógica de programção que desnvolvi durante um curso, no HTML irá abrir um prompt no qual o usuario irá inserir três valores, depois o sistema irá processar esses valores pra identificar o maior entre eles!!
+Esse arquivo foi a primeira lógica de programação que desnvolvi durante um curso, no HTML irá abrir um prompt no qual o usuario irá inserir três valores, depois o sistema irá processar esses valores pra identificar o maior entre eles!!
 
 - HTML
 - Javascript
